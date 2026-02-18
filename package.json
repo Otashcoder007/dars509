@@ -9,5 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "multer": "^2.0.2",
+    "pg": "^8.18.0"
+  }
 }
